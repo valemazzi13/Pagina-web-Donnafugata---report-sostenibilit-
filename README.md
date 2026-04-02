@@ -1,4 +1,4 @@
-# 🌱 Donnafugata - Sostenibilità d'impresa
+# Donnafugata - Sostenibilità d'impresa
 
 Project work per il corso di "Tecnologie Web per la sostenibilità d’impresa".
 
@@ -11,7 +11,7 @@ La pagina consente:
 - il download dei documenti ufficiali di sostenibilità
 
 ## 🌍 Sito web
-👉 [Vai al sito](INCOLLA QUI IL LINK GITHUB PAGES)
+👉 [https://valemazzi13.github.io/Donnafugata-sostenibilita-pw/]
 
 ## 🛠️ Tecnologie utilizzate
 - HTML5
